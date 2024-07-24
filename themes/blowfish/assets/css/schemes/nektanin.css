@@ -2,16 +2,16 @@
 :root {
   --color-neutral: 255, 255, 255;
   /* Stone */
-  --color-neutral-50: 255,255,255;
-  --color-neutral-100: 255,255,255;
-  --color-neutral-200: 255,255,255;
-  --color-neutral-300: 255,242,219;
-  --color-neutral-400: 255,215,143;
-  --color-neutral-500: 255,188,66;
-  --color-neutral-600: 255,174,25;
-  --color-neutral-700: 239,155,0;
-  --color-neutral-800: 199,128,0;
-  --color-neutral-900: 158,102,0;
+  --color-neutral-50: 255, 255, 255;
+  --color-neutral-100: 255, 255, 255;
+  --color-neutral-200: 255, 255, 255;
+  --color-neutral-300: 255, 242, 219;
+  --color-neutral-400: 255, 215, 143;
+  --color-neutral-500: 255, 188, 66;
+  --color-neutral-600: 255, 174, 25;
+  --color-neutral-700: 239, 155, 0;
+  --color-neutral-800: 199, 128, 0;
+  --color-neutral-900: 158, 102, 0;
   /* Orange */
   --color-primary-50: 255, 247, 237;
   --color-primary-100: 255, 237, 213;
