@@ -1,4 +1,4 @@
-/* Fire scheme */
+/* Blowfish scheme */
 :root {
   --color-neutral: 255, 255, 255;
   /* Stone */
@@ -35,4 +35,3 @@
   --color-secondary-800: 159, 18, 57;
   --color-secondary-900: 136, 19, 55;
 }
-
