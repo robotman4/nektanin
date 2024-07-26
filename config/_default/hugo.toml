@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://nektanin.com/"
+baseURL = "https://nektanin.pages.dev/"
 defaultContentLanguage = "en"
 title = "Nektanin"
 
