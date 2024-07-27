@@ -1,6 +1,6 @@
 ---
 title: "Welcome!"
-description: "Sweet and Robust"
+description: "Sweet and Robust Solutions"
 ---
 <div align="center">
 <img src="/img/logo.svg">
